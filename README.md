@@ -1,5 +1,6 @@
 # 🔠 arabic-tafqeet-dart
 
+[![Release](https://img.shields.io/badge/Release-v1.0.0-blue.svg)](https://github.com/MobileConduit/arabic-tafqeet-dart/releases/tag/v1.0.0)
 [![CI](https://github.com/MobileConduit/arabic-tafqeet-dart/actions/workflows/ci.yml/badge.svg)](https://github.com/MobileConduit/arabic-tafqeet-dart/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Language: Dart](https://img.shields.io/badge/Dart-3.x-blue.svg)](https://dart.dev)
@@ -36,6 +37,16 @@ flowchart TD
 - **Zero External Runtime Dependencies**: Pure Dart implementation compatible with web, desktop, and mobile Flutter apps.
 
 ---
+
+---
+
+## ⚙️ Installation & Setup
+
+```bash
+git clone https://github.com/MobileConduit/arabic-tafqeet-dart.git
+cd arabic-tafqeet-dart
+dart pub get
+```
 
 ## 📦 Dart / Flutter Usage
 
