@@ -3,12 +3,12 @@
 > **Topics:** `tafqeet` `arabic` `dart` `flutter` `numbers-to-words` `invoicing` `arabic-grammar`
 
 
-[![Release](https://img.shields.io/badge/Release-v1.0.0-blue.svg)](https://github.com/MobileConduit/arabic-tafqeet-dart/releases/tag/v1.0.0)
-[![CI](https://github.com/MobileConduit/arabic-tafqeet-dart/actions/workflows/ci.yml/badge.svg)](https://github.com/MobileConduit/arabic-tafqeet-dart/actions/workflows/ci.yml)
+[![Release](https://img.shields.io/badge/Release-v1.0.0-blue.svg)](https://github.com/shadialhasan/arabic-tafqeet-dart/releases/tag/v1.0.0)
+[![CI](https://github.com/shadialhasan/arabic-tafqeet-dart/actions/workflows/ci.yml/badge.svg)](https://github.com/shadialhasan/arabic-tafqeet-dart/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Language: Dart](https://img.shields.io/badge/Dart-3.x-blue.svg)](https://dart.dev)
-[![RTL: Arabic](https://img.shields.io/badge/Language-Arabic%20RTL-brightgreen.svg)](https://github.com/MobileConduit)
-[![Zero Dependency](https://img.shields.io/badge/Dependencies-Zero-brightgreen.svg)](https://github.com/MobileConduit)
+[![RTL: Arabic](https://img.shields.io/badge/Language-Arabic%20RTL-brightgreen.svg)](https://github.com/shadialhasan)
+[![Zero Dependency](https://img.shields.io/badge/Dependencies-Zero-brightgreen.svg)](https://github.com/shadialhasan)
 
 A pure Dart library converting numerical currencies and numbers into formal, grammatically accurate Arabic textual spelling (تفقيط الأرقام والمبالغ) tailored for billing, ERPs, banking, and financial invoicing apps across Flutter and Dart platforms.
 
@@ -46,7 +46,7 @@ flowchart TD
 ## ⚙️ Installation & Setup
 
 ```bash
-git clone https://github.com/MobileConduit/arabic-tafqeet-dart.git
+git clone https://github.com/shadialhasan/arabic-tafqeet-dart.git
 cd arabic-tafqeet-dart
 dart pub get
 ```
@@ -144,7 +144,7 @@ dart test
 - **Email:** [mhd.shadi.alhasan@gmail.com](mailto:mhd.shadi.alhasan@gmail.com)  
 - **Phone / WhatsApp:** [+963934005922](tel:+963934005922)  
 - **Location:** Damascus, Syria  
-- **GitHub:** [MobileConduit](https://github.com/MobileConduit)  
+- **GitHub:** [shadialhasan](https://github.com/shadialhasan)  
 
 ---
 
