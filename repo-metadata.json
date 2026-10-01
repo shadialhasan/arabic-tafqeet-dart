@@ -1,0 +1,12 @@
+{
+  "description": "Pure Dart library converting numbers and monetary currencies into formal Arabic textual spelling (Tafqeet)",
+  "topics": [
+    "tafqeet",
+    "arabic",
+    "dart",
+    "flutter",
+    "numbers-to-words",
+    "invoicing",
+    "arabic-grammar"
+  ]
+}
